@@ -7,7 +7,7 @@ $(document).ready(function() {
 });
 
 var xmlhttp = new XMLHttpRequest();
-var url = "http://api.fixer.io/latest"
+var url = "https://api.fixer.io/latest"
 var currencyRates = [];
 var currencyAPI;
 
